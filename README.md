@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**kkkik/kkkik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ahmed - Python & Web Developer 👨‍💻
 
-Here are some ideas to get you started:
+Hey there! I'm Aymen, a dedicated programmer with a passion for Python and web development. Welcome to my coding world! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💻 Python & Web Developer
+- 🌐 Check out my [Telegram Channel](https://t.me/onpython) for cool tools and resources.
+- 📫 Reach me on Telegram: [@unpacket](https://t.me/unpacket)
+
+## Tech Stack
+- 🐍 Python 
+- 💻 HTML & CSS
+- 🌐 Web Development
+## 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=-+I+am+programmer;Iraqi+.;%E2%80%A2+Message+Me+;On+Telegram+;UserName+%3A+%40unpacket;I+love+you" alt="Typing SVG" /></a>
