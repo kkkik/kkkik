@@ -21,6 +21,7 @@
 #### IDEs Used:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Pydroid3](https://img.shields.io/badge/Pydroid-316192?style=for-the-badge&logo=terminal&logoColor=white)&nbsp;
 ### _YEPAKI_ ###
 [<img src="https://github-profile-trophy.vercel.app/?username=kkkik&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 [![Connect](https://img.shields.io/badge/SP%3A-TELEGRAM-blue)](https://telegram.dog/unredo)
