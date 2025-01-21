@@ -23,6 +23,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ### _YEPAKI_ ###
 [<img src="https://github-profile-trophy.vercel.app/?username=kkkik&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=kkkik&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkkik&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Connect](https://img.shields.io/badge/SP%3A-TELEGRAM-blue)](https://telegram.dog/unredo)
