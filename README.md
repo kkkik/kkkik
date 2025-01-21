@@ -1,6 +1,6 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=-+I+am+programmer;+.;%E2%80%A2+Message+Me+;On+Telegram+;UserName+%3A+%40unredo;Message+me" alt="Typing SVG" /></a>
-- — - — - — - — - — - — - —
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&random=true&width=435&lines=-+Welcome+to+my+Profile.;+.;%E2%80%A2+For+Special+Programming+;Send+message+Telegram+;UserName+%3A+%40unredo;Message+me" alt="Typing SVG" /></a>
+
 
 #### Programming Languages:
 
@@ -22,8 +22,6 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ### _YEPAKI_ ###
-<!-- 
-----
 [<img src="https://github-profile-trophy.vercel.app/?username=kkkik&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 [<img src="https://github-readme-stats.vercel.app/api?username=kkkik&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkkik&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
