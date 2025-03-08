@@ -26,6 +26,4 @@
 [<img src="https://github-profile-trophy.vercel.app/?username=kkkik&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center">
-  <img src="https://h.top4top.io/p_3313n7k000.png" alt="MyImageBroooo" />
-</p>
+
