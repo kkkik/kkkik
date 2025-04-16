@@ -1,7 +1,4 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0EC7BD&background=FFFFFF&width=435&lines=Hi%2C+Im+d9c+or+aymen;I+love+programming+and+football;Could+you+please+visit+%3A;https%3A%2F%2Fve8.vercel.app%2F); Visit https://ve8.vercel.app/;" alt="Typing SVG" /></a>
-
-
 #### Programming Languages:
 
 ![GO](https://img.shields.io/badge/GOLANG-00FFFF?style=for-the-badge&logo=go&logoColor=black)&nbsp;
