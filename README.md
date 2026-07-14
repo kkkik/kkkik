@@ -1,5 +1,5 @@
-# 💻 System Terminal Profile
-> **OS:** Linux/GNU `x86_64` | **Theme:** `Monokai-Dark` | **Status:** `Active`
+# 👾 RootUser Profile - Running.
+> **OS:** Linux/GNU `x86_64` | **Theme:** `Monokai-Dark` | **Status:** `Online`
 
 ```bash
 # -----------------------------------------------------------------
@@ -10,7 +10,7 @@
 root@linux-system:~# .get Name
 > Root@user
 
-root@linux-system:~# .get ProLangs
+root@linux-system:~# .get Coding
 > Java, IDE
 
 root@linux-system:~# .projects
@@ -21,4 +21,5 @@ root@linux-system:~# .ready toCode
 
 # -----------------------------------------------------------------
 # LOG: Session stabilized. Packages: Up-to-date.
+# I WORK ONE DAY IN WEEK=True:exit()
 # -----------------------------------------------------------------
